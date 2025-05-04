@@ -6,6 +6,7 @@ Este é um projeto construído com para o desafio:
 
 ## 🚀 Tecnologias utilizadas
 
+- **TypeScript** — Linguagem que adiciona tipagem estática ao JavaScript, proporcionando maior segurança e produtividade no desenvolvimento.
 - **NestJS** — Framework Node.js para a construção de APIs escaláveis e eficientes.
 - **Prisma** — ORM para interagir com o banco de dados PostgreSQL de forma segura e eficiente.
 - **PostgreSQL** — Banco de dados relacional utilizado no projeto.
