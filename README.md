@@ -13,6 +13,8 @@ Este é um projeto construído com para o desafio:
 - **React** — Biblioteca para construir a interface do frontend.
 - **Shadcn** — Conjunto de componentes UI para construção rápida e estilosa da interface.
 - **Tailwind CSS** — Framework de CSS para criação de layouts modernos e responsivos.
+- **Websocket** - Tecnologia utilizada para permitir a interação em tempo real entre pessoas através de um chat online.
+- **Docker** - Utilizei docker para subir um container do meu banco de dados.
 
 ## 📦 Instalação local
 
